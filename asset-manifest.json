@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reto-banderas/static/css/main.642eadc0.css",
+    "main.js": "/reto-banderas/static/js/main.cecdbafe.js",
+    "static/js/787.84c7fd6e.chunk.js": "/reto-banderas/static/js/787.84c7fd6e.chunk.js",
+    "static/media/logo.svg": "/reto-banderas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reto-banderas/index.html",
+    "main.642eadc0.css.map": "/reto-banderas/static/css/main.642eadc0.css.map",
+    "main.cecdbafe.js.map": "/reto-banderas/static/js/main.cecdbafe.js.map",
+    "787.84c7fd6e.chunk.js.map": "/reto-banderas/static/js/787.84c7fd6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642eadc0.css",
+    "static/js/main.cecdbafe.js"
+  ]
+}
