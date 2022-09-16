@@ -1,4 +1,4 @@
-import {Container, Grid, FormControl, InputLabel, TextField, Select, MenuItem, Paper, CardMedia, CardContent, CircularProgress,} from "@mui/material";
+import {Container, Grid, FormControl, InputLabel, TextField, Select, MenuItem, Paper, CardMedia, CardContent, CircularProgress, Typography} from "@mui/material";
 import { useEffect, useState } from "react";
 import { getDataFromPokemon } from "../Service/Api";
 import FlagDetail from "./Details";
@@ -58,6 +58,7 @@ const Flags = () => {
   
     return (
       <Container>
+        <Typography style={{textAlign: "center", margin: '2rem', fontWeight: "bold", color: "#2b2b2b"}} variant="h1" gutterBottom>FLAGS</Typography>
         <Grid container spacing={3} mt={5}>
           <Grid item md={6}>
             <TextField
